@@ -103,6 +103,7 @@ Friend Class frmBatch
             Exit Sub
         End If
 
+        'This is just put in here to make it work better.
 
 
         ' Change the caption on the cancel button and set the stop processing flag.
