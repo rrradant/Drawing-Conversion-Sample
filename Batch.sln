@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Batch", "Batch.vbproj", "{D4E201F5-3C6D-4790-8158-8F0740921091}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4E201F5-3C6D-4790-8158-8F0740921091}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4E201F5-3C6D-4790-8158-8F0740921091}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4E201F5-3C6D-4790-8158-8F0740921091}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4E201F5-3C6D-4790-8158-8F0740921091}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E04EDDF1-EADF-40C7-BD14-F74017835477}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://hsvnt139:8080/tfs/solidedgetfs
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Batch.vbproj
+		SccLocalPath1 = .
+	EndGlobalSection
+EndGlobal
